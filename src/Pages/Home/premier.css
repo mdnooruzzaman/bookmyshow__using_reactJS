@@ -1,0 +1,16 @@
+.don4{
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: white;
+}
+.premier{
+    display: flex;
+    background-color: #2B3148;
+    margin-top: 9px;
+}
+.don4c{
+    flex: 25%;
+    margin-right: 30px;
+}

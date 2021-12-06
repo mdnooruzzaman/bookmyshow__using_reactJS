@@ -1,0 +1,15 @@
+.don11{
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.fun{
+    display: flex;
+    background-color: white;
+    margin-top: 9px;
+}
+.don11c{
+    flex: 25%;
+    margin-right: 30px;
+}
